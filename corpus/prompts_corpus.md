@@ -1,7 +1,7 @@
 
 # prompts_corpus.md – Journal des prompts du corpus MaintiDoc
 
-> Les 39 PDF de ce dépôt sont des documents pédagogiques synthétiques originaux, et non des notices officielles. Les prompts ci-dessous décrivent la génération réalisée pour constituer le corpus. Les documents restent au statut « À VÉRIFIER » jusqu'à relecture humaine.
+
 
 ## Prompt commun utilisé
 
