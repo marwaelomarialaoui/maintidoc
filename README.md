@@ -35,9 +35,19 @@ maintidoc/
 ```
 
 ## Contenu du corpus
-Le corpus cible comprend 30 à 50 documents. La proposition de travail est de 39 documents :
-- 20 documents sur les machines à coudre industrielles (responsable : Amira Zahr).
-- 19 documents sur les métiers à tisser (responsable : Marwa Elomari Alaoui).
+## Composition
+- 20 documents — machines à coudre — responsable : Amira Zahr.
+- 20 documents — métiers à tisser — responsable : Marwa Elomari Alaoui.
+- Total : 40 documents.
+
+## Organisation
+- `machines_a_coudre/` : 20 documents.
+- `metiers_a_tisser/` : 20 documents.
+- `inventaire.csv` : inventaire complet, sources, licences et état de vérification.
+- `prompts_corpus.md` : journal des prompts et références de contrôle.
+
+## Statut de vérification
+Les références officielles des fabricants ont été identifiées pour guider le contrôle.
 
 Le volume et le statut de vérification doivent être confirmés à partir des fichiers réellement présents. Chaque document doit avoir une ligne dans `corpus/inventaire.csv`. Les prompts réellement utilisés doivent être consignés dans `corpus/prompts_corpus.md`.
 
