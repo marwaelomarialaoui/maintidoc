@@ -366,17 +366,6 @@ Pour chaque document, conserver les informations suivantes dans `inventaire.csv`
 - Date de vérification.
 - Commentaires éventuels.
 
-## 5. Vérification du corpus
-
-Avant le dépôt final :
-
-- Vérifier que les 20 documents de la famille 1 sont présents.
-- Vérifier que les 20 documents de la famille 2 sont présents.
-- Vérifier la correspondance entre les noms des fichiers et les identifiants des prompts.
-- Vérifier que les documents fictifs sont clairement identifiés comme fictifs.
-- Vérifier les informations techniques à partir des notices des fabricants.
-- Signaler les informations qui restent à confirmer.
-- Vérifier que chaque document comporte une mention indiquant qu'il ne remplace pas la notice du fabricant.
 
 ## 6. Remarque importante
 
