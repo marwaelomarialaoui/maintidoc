@@ -2,7 +2,7 @@
 
 **Équipe :** Marwa Elomari Alaoui, Amira Zahr  
 **Date de génération initiale des documents :** 06/11/2026  
-**Outil :** assistant IA générative — *indiquer ici le nom exact de l'outil utilisé (ChatGPT, Claude, Gemini, Mistral Le Chat…)* : ______________
+
 
 ## Statut de la traçabilité (à lire)
 
@@ -363,6 +363,4 @@
 
 > Enrichis les historiques d'interventions fictifs des deux familles : 11 lignes chacun avec identifiant, date, équipement (S-001, S-002, S-TEST / T-001, T-002, T-TEST), symptôme, action, statut (clos ou ticket ouvert) et document lié, cohérents avec les fiches du corpus ; fournis aussi un CSV pour le futur serveur MCP (get_equipment_history, get_open_tickets).
 
-## Analyse critique de l'usage de l'IA (résumé)
 
-Voir le rapport du livrable 1 (partie 2.2) et le README. Corrections apportées le 26/11/2026 : fichiers `.md` convertis en PDF paginés ; 2 PDF scannés simulés (12 et 32) ; inventaire reconstruit à 20 colonnes (43 lignes) ; images `.jfif` sans source ni licence retirées ; versions v1/v2 distinguées pour les documents contradictoires ; identifiants d'équipement ajoutés aux métadonnées ; historiques enrichis ; journal des prompts renuméroté (P01–P48).
