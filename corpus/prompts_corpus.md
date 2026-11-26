@@ -2,7 +2,7 @@
 
 **Équipe :** Marwa Elomari Alaoui, Amira Zahr  
 **Date de génération initiale des documents :** 06/11/2026  
-**Outil :** assistant IA générative — *Claude 
+**Outil :** assistant IA générative — Claude 
 
 ## Statut de la traçabilité (à lire)
 
